@@ -1,5 +1,5 @@
-quick start
-----------------------
+# QUICK START
+
 
 ## WildReact
 
@@ -23,7 +23,7 @@ quick start
 <script src = "https://cdn.wilddog.com/sdk/js/current/wilddog.js" ></script>
 
 <!-- WildReact -->
-<script src = "https://cdn.wilddog.com/libs/js/wildreact/0.1.0/wildreact.js" ></script>  
+<script src = "https://cdn.wilddog.com/libs/wildreact/0.1.0/wildreact.js" ></script>  
 ```
 
 > 你也可以使用 `npm install wildreact` 来安装 WildReact 和它的所有依赖
@@ -71,9 +71,9 @@ componentWillMount: function() {
 
 **开发向导**
 
-[开发向导](https://github.com/WildDogTeam/lib-js-wildreact/blob/develop/GUIDE.md)
+[开发向导](https://github.com/WildDogTeam/lib-js-wildreact/blob/master/GUIDE.md)
 
 
 **API文档**
 
-[API文档](https://github.com/WildDogTeam/lib-js-wildreact/blob/develop/API.md)
+[API文档](https://github.com/WildDogTeam/lib-js-wildreact/blob/master/API.md)

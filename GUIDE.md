@@ -87,7 +87,7 @@ componentWillUnmount: function() {
 <script src="https://fb.me/JSXTransformer-0.13.3.js"></script>
 <!-- Wilddog -->
 <script src="https://cdn.wilddog.com/sdk/js/current/wilddog.js"></script>
-<script src="https://cdn.wilddog.com/libs/js/wildreact/0.1.0/wildreact.min.js"></script>
+<script src="https://cdn.wilddog.com/libs/wildreact/0.1.0/wildreact.min.js"></script>
 ``` 
 
 > 你也可以通过 `npm install wildreact` 或 `bower install wildreact` 安装 WildReact 和相关依赖。
@@ -130,4 +130,4 @@ handleSubmit: function(e) {
 
 ReactJS是创建用户UI的强大框架，如果要选一个工具来用作其后端的话，Wilddog无疑是最简单而且最强大的。仅仅几行代码就可以展示实时数据同步结合ReactAPP的强大。
 
-下一步你可以对照 [WildReact文档](https://github.com/WildDogTeam/lib-js-wildreact/blob/develop/API.md)，并且开始构建自己的APP了！
+下一步你可以对照 [WildReact文档](https://github.com/WildDogTeam/lib-js-wildreact/blob/master/API.md)，并且开始构建自己的APP了！
