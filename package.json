@@ -1,8 +1,8 @@
 {
   "name": "wildreact",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "Wilddog mixin for ReactJS",
-  "main": "wildreact.js",
+  "main": "dist/wildreact.js",
   "scripts": {
     "test": "gulp test",
     "travis": "gulp"
@@ -16,9 +16,10 @@
     "realtime",
     "react-component"
   ],
-  "dependencies": {
+  "dependencies": {},
+  "peerDependencies": {
     "react": "^0.14.0",
-    "wilddog": "^0.4.7"
+    "wilddog": "^0.6.1"
   },
   "devDependencies": {
     "chai": "^3.4.0",
