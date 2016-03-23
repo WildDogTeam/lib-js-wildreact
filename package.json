@@ -1,6 +1,6 @@
 {
   "name": "wildreact",
-  "version": "0.0.0",
+  "version": "0.1.1",
   "description": "Wilddog mixin for ReactJS",
   "main": "dist/wildreact.js",
   "scripts": {
