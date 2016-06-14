@@ -118,7 +118,7 @@ componentWillMount: function() {
 ```js
 handleSubmit: function(e) {
   e.preventDefault();
-  this.firebaseRefs.items.push({
+  this.wilddogRefs.items.push({
     text: this.state.text
   });
   this.setState({ text: "" });
